@@ -1,0 +1,19 @@
+Start.the Input parameters are:
+['fix=/Users/Song/Downloads/cctbx/gui/sasqt/sastbx_examples/she/input/2e2g.pdb', 'typef=pdb', 'mov=/Users/Song/Downloads/cctbx/gui/sasqt/sastbx_examples/she/input/2e2g.pdb', 'typem=pdb', 'nmax=15']
+#phil __OFF__
+-------------------Align molecular models in various format (PDB/NLM/XPLOR) ---------------------
+
+#phil __ON__
+#phil __END__
+doing alignment
+#############  SUMMARY of ALIGNMENT  #############
+Correlation Coefficient Between two models is: 22772.8495499
+Rmax is                                      : 81.0963830592
+Center of Mass is shifted to                 : [81.09638305922829, 81.09638305922829, 81.09638305922829]
+OUTPUT files are : 
+  /Users/Song/Downloads/cctbx/gui/sasqt/superpose/2e2g_za.nlm
+  /Users/Song/Downloads/cctbx/gui/sasqt/superpose/2e2g_za.pdb
+  /Users/Song/Downloads/cctbx/gui/sasqt/superpose/2e2g_za.nlm
+  /Users/Song/Downloads/cctbx/gui/sasqt/superpose/2e2g_za.pdb
+#############     END of SUMMARY     #############
+__END__

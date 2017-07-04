@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="image">
+    <file>imge/email_help.png</file>
+    <file>imge/help.png</file>
+    <file>imge/play.png</file>
+    <file>imge/preferences.png</file>
+    <file>imge/pregxs.png</file>
+    <file>imge/quit.png</file>
+    <file>imge/pymol.png</file>
+    <file>imge/shapeup.png</file>
+    <file>imge/superpose.png</file>
+    <file>imge/she.png</file>
+    <file>imge/save.png</file>
+    <file>imge/close.png</file>
+    <file>imge/home.png</file>
+    <file>imge/back.png</file>
+    <file>imge/next.png</file>
+    <file>imge/show.png</file>
+    <file>imge/directory.png</file>
+    <file>imge/SASTBX_Path.png</file>
+  </qresource>
+</RCC>

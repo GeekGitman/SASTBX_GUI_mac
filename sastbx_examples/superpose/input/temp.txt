@@ -1,0 +1,12 @@
+doing alignment
+#############  SUMMARY of ALIGNMENT  #############
+Correlation Coefficient Between two models is: 0.776984410953
+Rmax is                                      : 37.7389855994
+Center of Mass is shifted to                 : [37.7389855994465, 37.7389855994465, 37.7389855994465]
+OUTPUT files are : 
+  a_za.nlm
+  a_za.pdb
+  b_za.nlm
+  b_za.pdb
+#############     END of SUMMARY     #############
+__END__
